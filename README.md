@@ -4,7 +4,7 @@
 
 - 👀 Je suis intéressée par la gestion de projet (++) : Product Manager/Product Owner et l'UI/UX design.
 
-- 🌱 Durant ma formation, j'ai travaillé sur Ruby on Rails, Javascript, Figma, HTML, CSS, Heroku, VS Code....
+- 🌱 Durant ma formation, j'ai travaillé sur Ruby on Rails, Javascript, Figma, HTML, CSS, Heroku, VS Code, MySQL, SQLite, Postgre, Canva....
 
 - 💞️ Je recherche activement un poste de Product Manager ou Product Owner. Assez mobile géographiquement (Marseille, Toulouse, Paris ou Bordeaux).
 
